@@ -5,7 +5,7 @@ CS401: Variables and Control Structures
 
 ### Maven
 Project builds are configured via [Maven](https://maven.apache.org).
-Eclipse 
+Eclipse can also be used to run this project.
 
 To build, run 
 ```
