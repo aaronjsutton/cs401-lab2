@@ -1,4 +1,5 @@
-# Lab 2 - Variables and Control Structures
+# Lab 2 
+CS401: Variables and Control Structures
 
 ## Build
 
